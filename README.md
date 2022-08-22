@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**0gemeoJV/0gemeoJV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-Atualmente estou aprendendo a ferramenta Unity 2D e 3D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <a href="https://github.com/0gemeoJV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0gemeoJV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gemeoJV&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+ </div>
+
