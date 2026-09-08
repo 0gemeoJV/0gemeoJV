@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
--Atualmente estou aprendendo a ferramenta Unity 2D e 3D.
+-Desenvolvedor Front-End.
 
 ##
+<script src="https://kit.fontawesome.com/b95a02b008.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div align="center">
   <a href="https://github.com/0gemeoJV">
@@ -14,17 +16,18 @@
 
 ##
 
--💻 Linguagens e Engines que eu utilizo
+-💻 Tecnologias
 
 
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Rafa-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-          
-</div>
+<ul style="display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));">
+                <li><i class="fa-brands fa-react"></i></li>
+                <li><i class="devicon-typescript-plain typescript-icon"></i></li>
+                <li><i class="fa-brands fa-js"></i></li>
+                <li><i class="fa-brands fa-html5"></i></li>
+                <li><i class="fa-brands fa-css3-alt"></i></li>
+                <li><i class="fa-brands fa-git-alt"></i></li>
+</ul>
 
 ##
 
