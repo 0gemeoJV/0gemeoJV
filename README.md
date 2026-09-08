@@ -4,8 +4,6 @@
 -Desenvolvedor Front-End.
 
 ##
-<script src="https://kit.fontawesome.com/b95a02b008.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div align="center">
   <a href="https://github.com/0gemeoJV">
@@ -16,18 +14,7 @@
 
 ##
 
--💻 Tecnologias
-
-
-<ul style="display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));">
-                <li><i class="fa-brands fa-react"></i></li>
-                <li><i class="devicon-typescript-plain typescript-icon"></i></li>
-                <li><i class="fa-brands fa-js"></i></li>
-                <li><i class="fa-brands fa-html5"></i></li>
-                <li><i class="fa-brands fa-css3-alt"></i></li>
-                <li><i class="fa-brands fa-git-alt"></i></li>
-</ul>
+-💻 Tecnologias: React, TypeScript, JavaScript, HTML, CSS e Vite
 
 ##
 
